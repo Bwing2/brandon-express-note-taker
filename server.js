@@ -6,7 +6,7 @@ const PORT = process.env.port || 3001;
 
 const app = express();
 
-// Parses JSON and urlencoded
+// Middleware for Parsing JSON and urlencoded
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use("/api", api);
