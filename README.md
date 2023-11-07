@@ -1,6 +1,6 @@
 # brandon-express-note-taker
 
-[Link to live deploy on Heroku]()
+[Link to live deploy on Heroku](https://brandon-express-note-taker-d5b15c973689.herokuapp.com/)
 
 ![Github License](https://img.shields.io/badge/License-MIT-green.svg)
 
