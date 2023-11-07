@@ -37,7 +37,7 @@ There are a few main features, mainly adding saving and deleting notes. For the 
 4. There will be a home page with a blue `Get Started` button.
 5. Clicking that button will bring you to the notes page, where you can see a couple example notes on the left hand side.
 6. Any of the notes can be clicked on to see their descriptions.
-7. To create a new note, click the `plus` at the top right hand corner of the screen if you are already in a note. Otherwise you can just start typing a note title and text into the text boxes.
+7. To create a new note, click the `plus` at the top right hand corner of the screen if you are already in a note. (Otherwise you can just start typing a note title and text into the text boxes.)
 8. After filling in title and description boxes, click the `save` icon in the top right next to the `plus`.
 9. The note will then be added at the bottom of the list under the previous existing notes.
 10. To delete any note, click the `red trash can` icon to remove it from the list.
